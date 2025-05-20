@@ -5,3 +5,11 @@ A web application that allows users to upload time-series data in Excel or CSV f
 
 ![Requirements - screenshot 1](reqs/1.png)
 ![Requirements - screenshot 1](reqs/2.png)
+
+## Pre-requisites 
+
+- Make sure you have uv installed [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
+- Run this -
+```sh
+uv sync -p 3.12
+```
